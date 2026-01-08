@@ -1,6 +1,6 @@
 # Cloudflare Worker 网址重定向工具
 
-一个轻量级的 Cloudflare Worker 工具，支持动态配置多组网址重定向规则，规则持久化存储在 Cloudflare KV 中。
+一个轻量级的 Cloudflare Worker 工具，支持动态配置多组网址重定向规则，规则持久化存储在 Cloudflare KV 中。主要是为了配合stun动态公网使用
 
 ## 功能特点
 ✅ 支持多组网址重定向（A→A1、B→B1）  
